@@ -10,3 +10,7 @@ I'm building and maintaining:
 - [aacr-bench](https://github.com/alibaba/aacr-bench) — A multi-language benchmark for assessing LLMs in repository-level code review.
 
 I queue up issues and pull requests based on several factors — quality, reasonableness, severity, submission time, and so on. If something is genuinely urgent, feel free to @ me — I will move it to the front of the queue. Please don't abuse this.
+
+## Contact
+
+For technical discussions, collaboration, or business inquiries, reach me at [lizhengfeng.lzf@alibaba-inc.com](mailto:lizhengfeng.lzf@alibaba-inc.com).
